@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://docs.tebex.io/plugin/
 common:
+  - type: DomainSecurity
+    url: security/tebex-domain-security.yml
   - type: Website
     url: https://docs.tebex.io/plugin/
   - type: PublicAPIsListing
