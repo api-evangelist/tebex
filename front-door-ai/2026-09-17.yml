@@ -1,0 +1,25 @@
+# Front Door AI Index — tebex — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: tebex
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: docs.tebex.io
+  final_host: docs.tebex.io
+  ownership: own
+  owner: tebex
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 1
+  host_score: 1
+  density: 11.24
+  words: 89
+  tiers:
+    agentic: 1
+    core: 0
+    model: 0
+  ambiguous: 0
+  top_terms:
+    llms.txt: 1
