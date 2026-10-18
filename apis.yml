@@ -40,7 +40,8 @@ apis:
   - name: Tebex
     description: "Tebex API for information about game purchases"
     humanURL: https://docs.tebex.io/plugin/
-    tags:
+    tags: []
+    tags_raw:
       - Games And Comics
     properties:
       - type: Documentation
